@@ -1,7 +1,6 @@
 # hello_world
 My first repository!
 Started going to school at Woz U to become a Full Stack Developer!
-Starts in 3 weeks can't wait!
+Started on 11/18/2019
 Its a 33 week program.
-I'm going to have to work like 3-4 hours a day. 
-6 Days a weeks to accomplish my goal.
+I'm going to have to work like 4 or more hours 6 days a week to accomplish my goal.
